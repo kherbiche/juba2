@@ -91,6 +91,7 @@
 	</build>
 
 	<modules>
-		<module>log</module>
+		<module>juba2log</module>
+		<module>juba2repo</module>
 	</modules>
 </project>
